@@ -1,0 +1,10 @@
+{
+    "name": "github",
+    "version": "1.0.0",
+    "description": "Your project description",
+    "dependencies": {
+        "jsonfile": "^6.1.0",
+        "moment": "^2.29.4",
+        "simple-git": "^3.19.1"
+    }
+}
